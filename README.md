@@ -1,5 +1,5 @@
 # PacMen-Exercise
-The PacMen exercise was created for MITxPro full stack web development program. </br>
+The React-and-Formik-Example was created for MITxPro full stack web development program. </br>
 
 <a href= "https://foreverphoenix21.github.io/React-and-Formik-Example/">
 <img src= "formPic.png" alt = "Form Pic" width= "200" />
@@ -7,28 +7,34 @@ The PacMen exercise was created for MITxPro full stack web development program. 
 
 ## Description:
 
-<p> The PacMen-Exercise creates Pacmen through a function coded in the Pacemen.JS file. The Pacmen can be set in motion by clicking the start button. The velocities of the Pacmen is set by Math.Random().</p>
-
-<p> This exercise was built to demonstrate how pulled objects from arrays can be manipulated in the DOM. Coded in JavaScript, check out the pacmen.js for additional details.</p> 
+<p> The React-and-Formik-Example is an imput form using email and password fields. Using Formik, the form should implement the following input validation rules  
+  
+- If the username or password inputs are empty, display the message "Field required" under the text input.
+  
+- If the username is not in an email format, display the message "Username should be an email" under the text input.
+  
+- If the username and password pass the above validations, then display the message "Login Successful" in an alert box.  
+</p>
 
 ## Installation:
-<p> Upload the HTML file to your browser or fork and clone the project saving the files to your local hard drive.
-</p> </br>  <p> You can also run the program by clicking on the Pacman picture in this readme file. </p>
+<p> You can replicate this project in your favorite code editor using Formik. Create a new folder on your desktop and open the folder in your code editor. In the code editor terminal, run 'npm install formik --save'. 
+  
+- You can now run the program in development mode by running 'npm start' in the terminal.
 
 ## Usage:
 
-  <p>You can add the Pacmen to the screen by clicking the "Add Pacman" button. You can set the Pacmen in motion by clicking the "Start Pacmen" button. Have fun watching the Pacmen animate the screen. </p>
+  <p>This form exercise is an example of how to create a login form with validation using Formik and React.</p>
 
 ## Roadmap:
 
-*<p> This exercise will continually be built and improved on as I learn additional skills in Javascript. </p>*
+*<p> This exercise will continually be built and improved on as I learn additional skills in Javascript and React. </p>*
 
 ***
 
 **<p> Future updates: </p>**
-- Create collison barriers for pacmen to collide with. 
-- Make the packmen change colors/size when colliding against a wall.
-- Add functinal buttons that can manipulate the pacmen on the screen. 
+- Create custom fields for a email subscriber form
+- Add style
+- make form deployable  
 
 ## Support:
 
