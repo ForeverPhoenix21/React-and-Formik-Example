@@ -1,4 +1,4 @@
-# PacMen-Exercise
+# React-and-Formik-Example
 The React-and-Formik-Example was created for MITxPro full stack web development program. </br>
 
 <a href= "https://foreverphoenix21.github.io/React-and-Formik-Example/">
