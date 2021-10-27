@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+# PacMen-Exercise
+The PacMen exercise was created for MITxPro full stack web development program. </br>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<a href= "https://foreverphoenix21.github.io/React-and-Formik-Example/">
+<img src= "formPic.png" alt = "Form Pic" width= "200" />
+</a>
 
-## Available Scripts
+## Description:
 
-In the project directory, you can run:
+<p> The PacMen-Exercise creates Pacmen through a function coded in the Pacemen.JS file. The Pacmen can be set in motion by clicking the start button. The velocities of the Pacmen is set by Math.Random().</p>
 
-### `npm start`
+<p> This exercise was built to demonstrate how pulled objects from arrays can be manipulated in the DOM. Coded in JavaScript, check out the pacmen.js for additional details.</p> 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Installation:
+<p> Upload the HTML file to your browser or fork and clone the project saving the files to your local hard drive.
+</p> </br>  <p> You can also run the program by clicking on the Pacman picture in this readme file. </p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Usage:
 
-### `npm test`
+  <p>You can add the Pacmen to the screen by clicking the "Add Pacman" button. You can set the Pacmen in motion by clicking the "Start Pacmen" button. Have fun watching the Pacmen animate the screen. </p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Roadmap:
 
-### `npm run build`
+*<p> This exercise will continually be built and improved on as I learn additional skills in Javascript. </p>*
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+***
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**<p> Future updates: </p>**
+- Create collison barriers for pacmen to collide with. 
+- Make the packmen change colors/size when colliding against a wall.
+- Add functinal buttons that can manipulate the pacmen on the screen. 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Support:
 
-### `npm run eject`
+<p> Want to share feedback or comments?</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p> 
+  
+  Reach me on *[Linkedin](https://www.linkedin.com/in/derek-diaz/)* or *[Twitter](https://twitter.com/home).*
+  
+</p>
