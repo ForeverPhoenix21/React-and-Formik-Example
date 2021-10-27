@@ -15,7 +15,7 @@ function App() {
 
     validate: (values) => {
       let errors = {};
-      if (!values.name) errors.name = "Field required";
+//       if (!values.name) errors.name = "Field required"; Does not trigger Alert if enabled. 
       if (!values.password) errors.password = "Field required";
       if (!values.email) {
         errors.email = "Field required";
@@ -30,7 +30,7 @@ function App() {
   return (
     <div>
       <form onSubmit={formik.handleSubmit}>
-        {/* <div> User Name</div>
+        {/* <div> User Name</div> ------User name not needed for exercise submition 
         <input
           id="name"
           type="text"
